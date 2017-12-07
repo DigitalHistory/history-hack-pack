@@ -19,6 +19,7 @@
     "teletype",
     "atom-js-console",
     "atom-html-preview",
+    "markdown-preview-enhanced",
     "git-plus",
     "linter",
     "linter-jshint",
