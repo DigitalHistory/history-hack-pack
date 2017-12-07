@@ -1,0 +1,33 @@
+{
+  "name": "history-hack-pack",
+  "version": "0.1.0",
+  "description": "A meta-package for learning front-end developmeing in Digital History courses at University of Toronto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalHistory/atom-history-hack"
+  },
+  "keywords": [
+    "javascript",
+    "meta-package"
+  ],
+  "main": "./lib/historyhackpack",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "package-deps": [
+    "teletype",
+    "atom-js-console",
+    "atom-html-preview",
+    "git-plus",
+    "linter",
+    "linter-jshint",
+    "linter-htmlhint",
+    "linter-markdown",
+    "auto-update-plus",
+    "autoclose-html"
+  ],
+  "dependencies": {
+    "atom-package-deps": "^4.4.1"
+  }
+}
