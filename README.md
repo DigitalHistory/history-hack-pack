@@ -47,6 +47,7 @@ This package makes use of [atom-package-deps](https://github.com/steelbrain/pack
 * [`atom-js-console`](https:/atom.io/packages/atom-js-console) - open a console and run javascript code directly (for experiments)
 * [`atom-runner`](https://atom.io/packages/atom-runner) – run javscript files directly inside Atom (as a ninitial check of your code)
 * [`atom-html-preview`](https:/atom.io/packages/atom-html-preview) - Preview html files from within Atom
+* [`atom-html-preview`](https:/atom.io/packages/markdown-preview-enhanced) - Preview markdown files from within Atom
 * [`git-plus`](https:/atom.io/packages/git-plus) - additional git commands inside Atom
 * [`linter`](https:/atom.io/packages/linter) - framework for syntax checking of files
 * [`linter-jshint`](https:/atom.io/packages/linter-jshint) - check javascript syntax
@@ -54,6 +55,7 @@ This package makes use of [atom-package-deps](https://github.com/steelbrain/pack
 * [`linter-markdown`](https:/atom.io/packages/linter-markdown) - check markdown syntax
 * [`auto-update-plus`](https://atom.io/packages/auto-update-plus) – Automatically update packages
 * [`autoclose-html`](https://atom.io/packages/autoclose-html) – Autoclose html tags
+* [`linter-spell`](https://atom.io/packages/linter-spell) -- spell-chekcing for markdown files (and also HTML & Javascript with the provided additional plugins)
 
 To disable individual packages, go to the Atom settings.
 
