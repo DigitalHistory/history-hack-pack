@@ -55,6 +55,7 @@ This package makes use of [atom-package-deps](https://github.com/steelbrain/pack
 * [`linter-markdown`](https:/atom.io/packages/linter-markdown) - check markdown syntax
 * [`auto-update-plus`](https://atom.io/packages/auto-update-plus) – Automatically update packages
 * [`autoclose-html`](https://atom.io/packages/autoclose-html) – Autoclose html tags
+* [`linter-spell`](https://atom.io/packages/linter-spell) -- spell-chekcing for markdown files (and also HTML & Javascript with the provided additional plugins)
 
 To disable individual packages, go to the Atom settings.
 
