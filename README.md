@@ -5,6 +5,8 @@
 
 A meta-package for learning front-end developmeing in Digital History courses at University of Toronto
 
+**2019 note: Not currently being maintained. Current sutents please use the [VSCode version](https://github.com/DigitalHistory/history-hack-pack-vscode/).** 
+
 ## Installation
 
 ### apm
